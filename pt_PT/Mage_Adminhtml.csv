@@ -1,4 +1,3 @@
-"Magento ver. %s","Magento versão. %s <br/>Traduzido por <a href='https://www.slap.pt/' target='_blank'>SLAP</a>"
 " The customer does not exist in the system anymore.","O cliente já não existe no sistema"
 " [deleted]","[removido]"
 " and ","e "
@@ -518,7 +517,7 @@
 "Magento Logo","Logótipo do Magento"
 "Magento is a trademark of Magento Inc. Copyright &copy; %s Magento Inc.","Magento é uma marca registada de Magento Inc. Copyright &copy; %s Magento Inc."
 "Magento root directory","Diretório Principal Magento"
-"Magento ver. %s","Magento %s"
+"Magento ver. %s","Magento versão. %s <br/>Traduzido por <a href='https://www.slap.pt/' target='_blank'>SLAP - Digital Agency</a>"
 "Magento&trade; is a trademark of Magento Inc.<br/>Copyright &copy; %s Magento Inc.","Magento é uma marca registada de Magento Inc.<br/>Copyright &copy; %s Magento Inc."
 "Make sure that data encoding in the file is consistent and saved in one of supported encodings (UTF-8 or ANSI).","Por favor certifique-se que a codificação do ficheiro é consistente e num dos formatos suportados (UTF-( ou ANSI)"
 "Manage Attribute Sets","Gerir Grupos de Atributos"
